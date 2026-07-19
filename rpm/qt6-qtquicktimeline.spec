@@ -1,8 +1,8 @@
-%global  qt_version 6.7.2
+%global qt_version 6.8.4
 
 Summary: Qt6 - QuickTimeline plugin
 Name:    qt6-qtquicktimeline
-Version: 6.8.3
+Version: 6.8.4
 Release: 2%{?dist}
 
 License: GPL-3.0-only WITH Qt-GPL-exception-1.0
